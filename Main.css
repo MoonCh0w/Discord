@@ -2726,10 +2726,10 @@ div[style^="border-radius: 2px; background-color: rgba(114, 137, 218, 0"]
 
 .channels-Ie2l6A
   {
-    width: 10px !important;
+    width: 1px !important;
     -webkit-transition: width 1s !important;
     /* Safari */
-    transition: width 0.2s !important;
+    transition: width .1s !important;
     -webkit-transition-timing-function: cubic-bezier(.42, 0, .58, 1) !important;
     transition-timing-function: cubic-bezier(.42, 0, .58, 1) !important;
   }
